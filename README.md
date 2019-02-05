@@ -12,7 +12,4 @@ Kigar is developing,it is not developed.So you can not download Kigar.Wait a wee
 
 1.**Iteration Group**
 
-Kigar is based on Iteration Group.**Iteration Group** is a Abstract concept.Some packages in a group,The group name is Iteration Group.If ten packages in a same Iteration group,The ten packages are managed by its *Iteration Manager*.
-
-2.**Iteration Manager**
-
+Kigar is based on Iteration Group.**Iteration Group** is a Abstract concept.Some packages in a group,The group name is Iteration Group.
