@@ -30,7 +30,7 @@ You can use source code or binary.If you want to install by Source Code :
  
  `tools/skigar task:build kigar`
  
- `tools/skigar /builded task:install kigar`
+ `tools/skigar task:install kigar`
  
  as root.
  
