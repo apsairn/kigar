@@ -22,30 +22,28 @@ Run Kigar and select a MicroID Key Driving Server,gen a ***MicroID Key***,and st
 
 You can use source code or binary.If you want to install by Source Code :
 
-`git clone github.com/apsairn/kigar.git
+`git clone github.com/apsairn/kigar.git`
 
- cd kigar
+ `cd kigar`
  
- ./buildr
+ `./buildr`
  
- tools/skigar task:build kigar
+ `tools/skigar task:build kigar`
  
- tools/skigar /builded task:install kigar
+ `tools/skigar /builded task:install kigar`
  
- `
  as root.
  
  If you want to install by Binary Files:
  
- `git clone github.com/apsairn/kigar.git
+ `git clone github.com/apsairn/kigar.git`
   
-  cd kigar/release
+  `cd kigar/release`
   
-  ./installr
+  `./installr`
   
+  `tools/skigar task:build kigar-installer`
   
-  tools/skigar task:build kigar-installer
+  `./kigar-installer`
   
-  ./kigar-installer
-  
-  ` as root.
+  as root.
